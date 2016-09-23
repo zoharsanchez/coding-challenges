@@ -9,6 +9,7 @@ Coding challenges in this repo are courtesy of:
 - [codewars.com](http://www.codewars.com "Codewars' Homepage")
 - [leetcode.com](https://leetcode.com "LeetCode's Homepage")
 
+
 ### Coding resources:
 
 __Algorithms__
@@ -18,10 +19,13 @@ __Algorithms__
 __Data Structures__
 - [Linked Lists Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) by Nick Parlante
 
+
+
 ### To-do:
 
 - Create tests on solutions branch
 - Add more resources
+
 
 
 ### Contact
