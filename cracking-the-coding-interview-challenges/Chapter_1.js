@@ -31,4 +31,5 @@ O: True (permutations: 'taco cat', 'atco cta', etc.)
  */
 const palindromePer = str => {
 	// Write your code here!
-}; 
+};
+
